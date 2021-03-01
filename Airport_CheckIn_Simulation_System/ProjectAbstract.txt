@@ -1,0 +1,4 @@
+Airport Check-in Simulation System
+
+Developed an algorithm to simulate passenger queues (first class queue, economy class queue) at an airport terminal with multiple check-in counters. 
+For a given arrival rate of passengers, the system outputs maximum length of the queues, average and maximum waiting time of passengers, rate of occupancy of each service station.
