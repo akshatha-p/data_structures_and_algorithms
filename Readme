@@ -1,3 +1,7 @@
+
+Transitive Closure Computation
+
+
 Reading an oriented graph represented by pairs of nodes and computing its transitive closure matrix. 
 Displaying Adjacency Matrix of the given input and its transitive closure Matrix as output 
 
